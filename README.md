@@ -1,5 +1,10 @@
-## Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=f3wenbo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
+
+![f3wenbo github stats](https://github-readme-stats.digiangler.vercel.app/api?username=f3wenbo&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.digiangler.vercel.app/api/top-langs/?username=f3wenbo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **f3wenbo/f3wenbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
